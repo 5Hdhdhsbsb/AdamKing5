@@ -1,0 +1,108 @@
+Map Name:GTAV_LosSantosGarage
+Map Type:1
+Holo Sign:0.0, 0.1, 0.0*<i>Create by AdamKing5 ;)</i>
+Camera Pos:-3.31, 8.87, 43.62:12.27, 32.88, 0.00
+Max Vehicle Count: 16
+Fuel Consume Rate: 2
+Delete Idle Vehicle: -1
+Health Regeneration: true
+Hide Names: false
+Allow Respawn: true
+Voice-Chat: enabled
+Vote For Role: disabled
+Role-play: disabled
+Approve On Register: false
+Roles List:<color=yellow>[TAXI]</color>,<color=#C7C>[WORKER]</color>,[BUILDER],<color=green>[DOCTOR]</color>,<color=orange>[MECHANIC]</color>,<color=blue>[POLICE]</color>,<color=red>[ADMIN]</color>,
+Point_Light_Editor:18.43,16.15,58.03:90.00,0.00,0.00:6.40,5.50,0.10:color{1.00,1.00,1.00} light{100,30,0,1}
+Block_Scalable_Editor:18.43,16.15,57.89:0.00,0.00,0.00:6.80,0.20,6.20:color{0.00,0.00,0.00}
+Block_Scalable_Editor:18.00,16.25,59.54:0.00,0.00,0.00:0.50,1.00,0.30:color{0.00,0.00,0.00}
+Block_Scalable_Editor:18.00,16.25,56.44:0.00,0.00,0.00:0.50,1.00,0.30:color{0.00,0.00,0.00}
+Block_Scalable_Editor:18.00,16.25,59.54:0.00,0.00,0.00:0.50,1.00,0.30:color{0.00,0.00,0.00}
+Blackboard_Editor:17.17,6.99,79.64:0.00,0.00,0.00:1.00,1.00,1.00:Click in any color you gonna customize the car and change the color! |(good luck) ;) ;)
+Steam_Smoke_Editor:-4.86,10.40,33.72:270.00,0.00,0.00:1.70,1.50,3.20:color{1.00,1.00,1.00}
+Pipe_90_Editor:-4.78,8.12,34.87:270.00,100.00,0.00:1.00,1.00,1.00:color{0.80,0.80,0.80} material{MetalBare0212,0.01}
+Tree_Palm_Editor:-67.53,0.00,-36.01:0.00,0.00,0.00:1.00,1.00,1.00: 
+Tree_Palm_Editor:-44.14,0.00,-39.26:0.00,0.00,0.00:1.00,1.00,1.00: 
+Tree_Palm_Editor:-56.22,0.00,19.04:0.00,0.00,0.00:1.00,1.00,1.00: 
+Tree_Palm_Editor:-54.09,0.00,43.90:0.00,0.00,0.00:1.00,1.00,1.00: 
+Tree_Palm_Editor:-40.38,0.00,59.42:0.00,0.00,0.00:1.00,1.00,1.00: 
+Tree_Palm_Editor:-38.96,0.00,69.65:0.00,0.00,0.00:1.00,1.00,1.00: 
+Tree_Palm_Editor:-26.38,0.00,65.28:0.00,0.00,0.00:1.00,1.00,1.00: 
+Tree_Palm_Editor:-34.47,0.00,57.83:0.00,0.00,0.00:1.00,1.00,1.00: 
+Tree_Palm_Editor:-18.16,0.00,55.27:0.00,0.00,0.00:1.00,1.00,1.00: 
+Tree_Palm_Editor:-29.72,0.00,50.90:0.00,0.00,0.00:1.00,1.00,1.00: 
+Tree_Palm_Editor:-27.47,0.00,39.85:0.00,0.00,0.00:1.00,1.00,1.00: 
+Tree_Palm_Editor:-16.11,0.00,39.79:0.00,0.00,0.00:1.00,1.00,1.00: 
+UI_Scalable_Editor:29.52,0.90,65.44:0.00,87.00,0.00:14.70,10.90,1.00:https;//github.com/5Hdhdhsbsb/AdamKing5/raw/main/GTAV-LSCustoms-Logo.png
+Building_Shop_Close2_Editor:9.01,17.25,56.73:0.00,0.00,0.00:1.00,1.00,1.00: 
+Trigger_Box_Editor:28.14,3.24,64.73:0.00,46.00,0.00:2.90,3.10,0.70:mode{loop}|sound{ElevatorMusic*10*10}
+Radio_Editor:28.17,2.89,64.72:0.00,302.00,0.00:1.00,1.00,1.00: 
+Block_Scalable_Editor:20.83,-0.20,75.48:0.00,356.00,0.00:0.40,1.10,0.40:color{1.00,1.00,1.00} material{Brick_Pavement,0.25}
+Block_Scalable_Editor:14.92,-0.20,75.00:0.00,356.00,0.00:0.40,1.10,0.40:color{1.00,1.00,1.00} material{Brick_Pavement,0.25}
+Block_Scalable_Editor:19.53,0.80,75.77:0.00,0.00,0.00:9.60,0.10,4.30:color{1.00,1.00,1.00} material{Brick_Pavement,0.25}
+Trigger_Box_Editor:-1.34,2.45,64.46:0.00,0.00,0.00:3.50,4.40,3.60:mode{enter}|tip{¡ Vehicle Repaired Successfully}|vehicle{repair}|draw{wrench*3.5}|cooldown{10}
+Block_Scalable_Editor:18.85,5.37,79.26:90.00,0.00,0.00:1.00,1.00,1.00:color{0.52,0.00,1.00}
+Block_Scalable_Editor:17.23,5.37,79.35:90.00,0.00,0.00:1.00,1.00,1.00:color{1.00,0.00,0.82}
+Block_Scalable_Editor:17.19,3.77,79.30:90.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00}
+Block_Scalable_Editor:17.19,2.27,79.30:90.00,0.00,0.00:1.00,1.00,1.00:color{0.00,0.00,0.00}
+Block_Scalable_Editor:17.19,0.87,79.30:90.00,0.00,0.00:1.00,1.00,1.00:color{1.00,0.35,0.09}
+Block_Scalable_Editor:15.38,0.87,79.33:90.00,0.00,0.00:1.00,1.00,1.00:color{0.00,1.00,0.00}
+Block_Scalable_Editor:15.38,2.27,79.33:90.00,0.00,0.00:1.00,1.00,1.00:color{0.89,0.87,0.00}
+Block_Scalable_Editor:15.38,3.87,79.33:90.00,0.00,0.00:1.00,1.00,1.00:color{0.00,0.20,1.00}
+Block_Scalable_Editor:15.37,4.87,79.94:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,0.00,0.00}
+Block_Scalable_Editor:18.52,0.30,80.09:0.00,0.00,0.00:8.90,7.20,0.90:color{0.77,0.66,0.64} material{Grid_White,0.25}
+Decal_Planar_Static_Editor:-7.00,0.15,77.82:0.00,355.00,0.00:9.20,4.50,1.00:color{1.00,1.00,1.00} material{Bottom_dirt_decal,1.00}
+Decal_Planar_Static_Editor:-0.04,0.15,78.44:0.00,355.00,0.00:9.20,4.50,1.00:color{1.00,1.00,1.00} material{Bottom_dirt_decal,1.00}
+Metal_Floor_Editor:-2.00,-0.90,66.53:0.00,0.00,0.00:1.00,1.00,1.00: 
+FuseBox_Editor:-8.93,8.50,55.20:0.00,265.00,0.00:1.00,1.00,1.00: 
+FuseBox_Editor:-8.88,4.60,55.15:0.00,265.00,0.00:1.00,1.00,1.00: 
+FuseBox_Editor:-8.85,0.50,55.21:0.00,265.00,0.00:1.00,1.00,1.00: 
+FuseBox_Editor:-9.24,8.40,61.25:0.00,265.00,0.00:1.00,1.00,1.00: 
+FuseBox_Editor:-9.24,4.40,61.25:0.00,265.00,0.00:1.00,1.00,1.00: 
+FuseBox_Editor:-9.24,0.50,61.25:0.00,265.00,0.00:1.00,1.00,1.00: 
+Block_Scalable_Editor:19.45,0.20,65.11:356.00,0.00,0.00:9.60,0.10,18.60:color{1.00,1.00,1.00} material{Brick_Pavement,0.25}
+Trigger_Box_Editor:24.93,16.95,42.89:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|weapons{empty}
+Barrel_Editor:28.48,0.20,61.65:0.00,277.00,0.00:1.00,1.00,1.00: 
+Barrel_Editor:28.26,0.20,64.63:0.00,332.00,0.00:1.00,1.00,1.00: 
+Tile_Marble_Editor:27.94,-0.70,70.22:0.00,0.00,0.00:1.00,1.00,1.00: 
+Square_Plank_Editor:28.74,0.80,67.26:0.00,0.00,0.00:0.70,0.70,0.70: 
+Road_Barrier_Editor:26.66,0.20,75.62:0.00,90.00,0.00:1.00,1.00,1.00: 
+Road_Barrier_Cone_Editor:26.85,0.20,72.92:0.00,0.00,0.00:1.00,1.00,1.00: 
+Trigger_Box_Editor:27.31,1.41,67.97:0.00,0.00,0.00:1.10,5.00,1.50:mode{solid}
+Npc_Char2_Editor:27.55,0.20,68.01:0.00,289.00,0.00:1.00,1.00,1.00:animation{Cat_Idle}
+Trigger_Box_Editor:24.52,10.85,20.15:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|tip{<color=red>Subscribe</color> for <i><color=lightblue>AdamKing5</color></i>}|cooldown{101}
+Trigger_Box_Editor:16.99,1.50,38.00:0.00,0.00,0.00:16.70,12.60,17.40:mode{stay}|rotate{16,8,37*90,0,0*15}|sound{Garagedoor*50*50}
+Trigger_Box_Editor:8.94,4.10,50.64:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|effect{reverbzone*45*Bathroom}
+UI_Scalable_Editor:9.63,7.78,36.75:0.00,0.00,0.00:25.80,13.40,1.00:https;//github.com/5Hdhdhsbsb/AdamKing5/raw/main/GTAV-LSCustoms-Logo.png
+Block_Scalable_Editor:13.74,16.95,62.08:0.00,358.00,0.00:46.80,0.30,50.10:color{1.00,1.00,1.00} material{Paul_Pavment,0.25}
+Block_Scalable_Editor:11.36,0.00,56.06:0.00,359.00,0.00:47.20,0.20,54.00:color{0.50,0.50,0.50}
+Block_Scalable_Editor:30.78,-0.95,57.53:0.00,267.00,0.00:47.90,18.20,0.40:color{0.53,0.52,0.51}
+Block_Scalable_Editor:8.94,-0.95,79.46:0.00,175.00,0.00:41.90,18.20,0.40:color{0.53,0.52,0.51}
+Block_Scalable_Editor:-9.27,-0.95,57.07:0.00,84.00,0.00:41.90,18.20,0.40:color{0.53,0.52,0.51}
+Block_Scalable_Editor:0.53,-0.95,37.01:0.00,0.00,0.00:16.40,9.20,0.40:color{0.53,0.52,0.51}
+Block_Scalable_Editor:2.70,7.95,37.02:0.00,0.00,0.00:20.80,9.20,0.40:color{0.53,0.52,0.51}
+Block_Scalable_Editor:18.93,7.95,37.12:0.00,0.00,0.00:20.80,9.20,0.40:color{0.53,0.52,0.51}
+Door_Garage2_Editor:16.56,8.10,37.16:0.00,0.00,0.00:1.00,1.00,1.00: 
+Building_Shop_Close2_Editor:42.04,0.00,19.73:0.00,270.00,0.00:1.00,1.00,1.00: 
+Building_Shop_Close2_Editor:42.09,0.00,-12.48:0.00,270.00,0.00:1.00,1.00,1.00: 
+Wall_Editor:-30.15,0.50,-29.20:0.00,270.00,0.00:1.00,1.00,1.00: 
+Wall_Editor:-29.64,0.50,29.51:0.00,271.00,0.00:1.00,1.00,1.00: 
+Wall_Editor:-29.61,0.50,25.44:0.00,271.00,0.00:1.00,1.00,1.00: 
+Wall_Editor:-30.14,0.50,7.28:0.00,273.00,0.00:1.00,1.00,1.00: 
+Wall_Editor:-30.52,0.50,-9.86:0.00,270.00,0.00:1.00,1.00,1.00: 
+Wall_Editor:-30.24,0.50,-25.71:0.00,270.00,0.00:1.00,1.00,1.00: 
+Block_Scalable_Editor:-2.59,0.00,-0.18:0.00,0.00,0.00:55.20,0.10,75.20:color{1.00,1.00,1.00} material{Brick_Pavement,0.25}
+Trigger_Box_Editor:15.28,5.40,80.26:0.00,0.00,0.00:1.30,0.90,2.30:mode{onclick}|vehicle{paint*1.00 ,0.00 ,0.00}
+Trigger_Box_Editor:15.40,3.90,80.37:0.00,0.00,0.00:1.30,0.90,2.30:mode{onclick}|vehicle{paint*0.00 ,0.20 ,1.00}
+Trigger_Box_Editor:15.41,2.30,80.28:0.00,0.00,0.00:1.30,0.90,2.30:mode{onclick}|vehicle{paint*0.89 ,0.87 ,0.00}
+Trigger_Box_Editor:15.40,0.90,80.37:0.00,0.00,0.00:1.30,0.90,2.30:mode{onclick}|vehicle{paint*0.00 ,1.00 ,0.00}
+Trigger_Box_Editor:17.22,0.90,80.27:0.00,0.00,0.00:1.30,0.90,2.30:mode{onclick}|vehicle{paint*1.00 ,0.35 ,0.09}
+Trigger_Box_Editor:17.17,2.30,80.26:0.00,0.00,0.00:1.30,0.90,2.30:mode{onclick}|vehicle{paint*0.00 ,0.00 ,0.00}
+Trigger_Box_Editor:17.12,3.80,80.29:0.00,0.00,0.00:1.30,0.90,2.30:mode{onclick}|vehicle{paint*1.00 ,1.00 ,1.00}
+Trigger_Box_Editor:17.11,5.40,80.04:0.00,0.00,0.00:1.30,0.90,2.30:mode{onclick}|vehicle{paint*1.00 ,0.00 ,0.82}
+Trigger_Box_Editor:18.75,5.40,80.24:0.00,0.00,0.00:1.30,0.90,2.30:mode{onclick}|vehicle{paint*0.52 ,0.00 ,1.00}
+UI_Scalable_Editor:20.29,0.20,80.13:0.00,0.00,0.00:1.00,1.00,1.00: 
+UI_Scalable_Editor:19.89,1.90,79.58:0.00,1.00,0.00:2.80,1.80,1.00:<font=crayon>Paint Vehicle Selector ;)
+Spawn_Point_Editor:0.00,0.10,0.00:0.00,0.00,0.00:1.00,1.00,1.00: 
+Vehicle_King:-24.3, 0.3, 10.4:0.0, 268.4, 0.0:0,0,0:color{1.00,0.00,0.00} 
+
